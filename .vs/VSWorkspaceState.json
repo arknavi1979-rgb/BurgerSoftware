@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\vcpkg_installed",
+    "\\vcpkg_installed\\vcpkg",
+    "\\vcpkg_installed\\vcpkg\\blds\\imgui",
+    "\\vcpkg_installed\\vcpkg\\blds\\imgui\\src\\v1.92.8-8e9c05eb59.clean",
+    "\\vcpkg_installed\\vcpkg\\blds\\imgui\\src\\v1.92.8-8e9c05eb59.clean\\examples\\example_allegro5"
+  ],
+  "SelectedNode": "\\vcpkg_installed\\vcpkg\\blds",
+  "PreviewInSolutionExplorer": false
+}

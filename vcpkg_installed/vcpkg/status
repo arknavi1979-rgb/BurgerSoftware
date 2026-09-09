@@ -1,0 +1,37 @@
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0abe88aec4203534d856d84f1bbda4cbaee3d5d64fa4b5a1a67f7a155df3d702
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 18e76365ca28fc4fca4ad0f8031ca0a9e1f2c7fd40a8081daf7c059ca08dec90
+Status: install ok installed
+
+Package: imgui
+Version: 1.92.8
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: fd4507d133e0b79fde222978179791d92c6028750ebd4c3213e1fbe6c7e3ed58
+Description: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
+Status: install ok installed
+
+Package: imgui
+Feature: dx11-binding
+Architecture: x64-windows
+Multi-Arch: same
+Description: Make available DirectX11 binding
+Status: install ok installed
+
+Package: imgui
+Feature: win32-binding
+Architecture: x64-windows
+Multi-Arch: same
+Description: Make available Win32 binding
+Status: install ok installed
+

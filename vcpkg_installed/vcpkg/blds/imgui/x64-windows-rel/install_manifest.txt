@@ -1,0 +1,13 @@
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/lib/imgui.lib
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imconfig.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_internal.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_textedit.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_rectpack.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imstb_truetype.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_stdlib.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_impl_dx11.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/include/imgui_impl_win32.h
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-config.cmake
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-targets.cmake
+C:/Users/Gribor/Pictures/evilchits/vcpkg_installed/vcpkg/pkgs/imgui_x64-windows/share/imgui/imgui-targets-release.cmake
